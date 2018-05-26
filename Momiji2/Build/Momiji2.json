@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Momiji2.data.unityweb",
+"asmCodeUrl": "Momiji2.asm.code.unityweb",
+"asmMemoryUrl": "Momiji2.asm.memory.unityweb",
+"asmFrameworkUrl": "Momiji2.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
