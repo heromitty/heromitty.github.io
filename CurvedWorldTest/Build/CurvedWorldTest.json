@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "CurvedWorldTest.data.unityweb",
+"asmCodeUrl": "CurvedWorldTest.asm.code.unityweb",
+"asmMemoryUrl": "CurvedWorldTest.asm.memory.unityweb",
+"asmFrameworkUrl": "CurvedWorldTest.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
